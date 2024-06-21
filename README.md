@@ -1,0 +1,2 @@
+# try-gitignore
+Mencoba .gitignore
